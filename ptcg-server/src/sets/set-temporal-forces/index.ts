@@ -88,6 +88,7 @@ import { Victini } from './victini';
 import { Vikavolt } from './vikavolt';
 import { WalkingWakeex } from './walking-wake-ex';
 import { Wugtrioex } from './wugtrio-ex';
+import { Zeraora } from './zeraora';
 export const setTemporalForces: Card[] = [
 
   new AncientBoosterEnergyCapsuleTEF(),
@@ -173,6 +174,7 @@ export const setTemporalForces: Card[] = [
   new Victini(),
   new Vikavolt(),
   new WalkingWakeex(),
+  new Zeraora(),
 
   //FA
   new GrotleIR(),
